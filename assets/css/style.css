@@ -1053,7 +1053,7 @@ Header Area CSS
   }
   .evolta-responsive-nav .evolta-responsive-menu.mean-container .navbar-nav {
     overflow-y: scroll;
-    height: 350px;
+    height:auto;
     -webkit-box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
             box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
   }
