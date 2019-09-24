@@ -2,13 +2,13 @@ var headerTxt = `<div class="top-header">
 <div class="container-fluid">
     <div class="row align-items-center">
         <div class="col-lg-6 col-md-6">
-            <p><span>Address:</span> <i class="flaticon-placeholder"></i> 92 ซอยพหลโยธิน 7 ถนนพหลโยธิน แขวงพญาไท เขตพญาไท กรุงเทพมหานคร 10400</p>
+            <p><span>ที่ตั้ง:</span> <i class="flaticon-placeholder"></i> 92 ซอยพหลโยธิน 7 ถนนพหลโยธิน แขวงพญาไท เขตพญาไท กรุงเทพมหานคร 10400</p>
         </div>
 
         <div class="col-lg-6 col-md-6">
             <ul>
-                <li><span>Contact Sales:</span> <i class="flaticon-phone-call"></i> <a href="tel:0 2278 8500"> 0 2278 8500</a></li>
-                <li><span>Contact Email:</span> <i class="flaticon-message-closed-envelope"></i> <a href="mailto:evolta@gmail.com"> webmaster@mnre.go.th</a></li>
+                <li><span>โทรศัพท์:</span> <i class="flaticon-phone-call"></i> <a href="tel:0 2278 8500"> 0 2278 8500</a></li>
+                <li><span>อีเมล์:</span> <i class="flaticon-message-closed-envelope"></i> <a href="mailto:evolta@gmail.com"> webmaster@mnre.go.th</a></li>
             </ul>
         </div>
     </div>

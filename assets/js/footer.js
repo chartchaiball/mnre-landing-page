@@ -48,10 +48,10 @@ var footerTxt = `<div class="container">
             <h3>Contacts</h3>
 
             <ul class="footer-contact-list">
-                <li><span>Address:</span> 92 ซอยพหลโยธิน 7 ถนนพหลโยธิน แขวงพญาไท เขตพญาไท กรุงเทพมหานคร 10400</li>
-                <li><span>Email:</span> <a href="#">webmaster@mnre.go.th</a></li>
-                <li><span>Phone:</span> <a href="#">0 2278 8500</a></li>
-                <li><span>Fax:</span> <a href="#">+44 785 4578964</a></li>
+                <li><span>ที่ตั้ง:</span> 92 ซอยพหลโยธิน 7 ถนนพหลโยธิน แขวงพญาไท เขตพญาไท กรุงเทพมหานคร 10400</li>
+                <li><span>อีเมล์:</span> <a href="#">webmaster@mnre.go.th</a></li>
+                <li><span>โทรศัพท์:</span> <a href="#">0 2278 8500</a></li>
+                <li><span>โทรสาร:</span> <a href="#">+44 785 4578964</a></li>
             </ul>
         </div>
     </div>
